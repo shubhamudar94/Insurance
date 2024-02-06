@@ -1,0 +1,6 @@
+hostname = localhost
+port = 3306
+dbname = insurance
+username = root
+password = s9403947192
+
